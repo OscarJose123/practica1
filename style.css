@@ -1,0 +1,73 @@
+.Principal{
+ text-decoration:none;
+ font-size:49px;
+ font-family:Verdana;
+ border:2px;
+ color:red;
+ 
+}
+#container{
+    display:inline;
+    text-decoration:none;
+    font-family:Verdana;
+}
+.site-navigation{
+    padding:auto;
+    text-decoration:none;
+    color:red;
+}
+.body{
+
+    margin: auto;
+    padding: 50px;
+}
+#head{
+
+ display:block;
+ position:relative;
+ padding:30px;
+ clear:both;
+}
+#Titulo {
+    
+    text-align:center;
+    font-family:Arial;
+    
+    
+}
+#imagen {
+    
+    width: 400px;
+    height: 400px;
+    display:block;
+}
+#uniq{ height:400px;
+    width:400px;
+}
+#imagen{
+    width:300px;
+    height:250px;
+}
+#content{
+
+  color:black;
+  font-family:Arial, sans-serif;
+  margin:auto;
+  padding:auto;
+  position:relative;
+}
+#entry-cont h3{
+    background-color:red;
+    font-size:30px;
+    color:white;
+    display:block;
+    border-radius:5px;
+}
+#entry-cont p{
+    
+    position:relative;
+    font-family:serif, Impact;
+}
+.home{
+    border:4px;
+}
